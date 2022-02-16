@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is created to manage a simplified version of an online chat.
+This project is created to manage a simplified version of an google translate.
 
 Project was created using maven and all tests are implemented using JUnit
 
